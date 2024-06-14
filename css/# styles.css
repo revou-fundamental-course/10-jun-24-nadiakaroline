@@ -1,0 +1,30 @@
+/*Ini   CSS*/
+
+body {
+    background-color: pink;
+}
+
+textarea {
+    background-color: lavender;
+    border-radius: 6px;
+}
+
+.button {
+    border-radius: 4px;
+}
+
+.aquamarine-color {
+    background-color: aquamarine;
+    color: black;
+}
+
+.lavenderblush-color {
+    background-color: lavenderblush;
+    color: black;
+}
+
+.subject-info{
+    font-size: 24px;
+    font-style: italic;
+    font-family: math;
+}
